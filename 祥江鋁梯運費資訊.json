@@ -1,0 +1,53 @@
+{
+  "brand": "祥江鋁梯",
+  "products": [
+    { "catalog_id": "190689", "name": "祥江鋁梯-(特A)A字梯/5尺" },
+    { "catalog_id": "190691", "name": "祥江鋁梯-(特大A)A字梯/4尺" },
+    { "catalog_id": "190692", "name": "祥江鋁梯-(特大A)A字梯/5尺" },
+    { "catalog_id": "190693", "name": "祥江鋁梯-(特大A)A字梯/6尺" },
+    { "catalog_id": "190694", "name": "祥江鋁梯豪華鐵梯/2階" },
+    { "catalog_id": "190695", "name": "祥江鋁梯豪華鐵梯/3階" },
+    { "catalog_id": "190696", "name": "祥江鋁梯豪華鐵梯/4階" },
+    { "catalog_id": "190853", "name": "祥江鋁梯-豪華鐵梯/5階" },
+    { "catalog_id": "292757", "name": "祥江鋁梯-(特大A)A字梯/7尺" },
+    { "catalog_id": "296629", "name": "祥江鋁梯-(特大A)A字梯/8尺/個" }
+  ],
+  "product_series_summary": [
+    {
+      "series_name": "(特A)A字梯",
+      "available_sizes": ["3尺", "4尺", "5尺", "6尺"]
+    },
+    {
+      "series_name": "(特大A)A字梯",
+      "available_sizes": ["3尺", "4尺", "5尺", "6尺"]
+    },
+    {
+      "series_name": "豪華鐵梯",
+      "available_steps": ["2階", "3階", "4階", "5階"]
+    }
+  ],
+  "shipping_rules": {
+    "standard_surcharge_locations": {
+      "amount": 80,
+      "unit": "每件",
+      "applicable_areas": [
+        "公家機關",
+        "國營單位",
+        "國軍營區",
+        "醫療院所",
+        "百貨公司",
+        "商業辦公大樓"
+      ]
+    },
+    "airport_surcharge": {
+      "location": "機場航空站",
+      "amount": 280,
+      "unit": "每件"
+    },
+    "oversize_rule": {
+      "condition": "8尺(含)以上鋁梯",
+      "policy": "運費另計",
+      "action": "需上線諮詢確認"
+    }
+  }
+}
