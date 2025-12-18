@@ -1,0 +1,95 @@
+{
+  "brand_info": "聲寶 SAMPO 及相關家電產品",
+  "products": [
+    { "catalog_id": "292081", "name": "聲寶SAMPO經典系列140L定頻雙門冰箱/SR-C14Q(R6)/紫燦銀" },
+    { "catalog_id": "292084", "name": "聲寶SAMPO經典系列140L定頻雙門冰箱/SR-C14Q(Y9)/晶鑽金" },
+    { "catalog_id": "292089", "name": "聲寶SAMPO星美滿極光鈦旗艦系列480L變頻雙門冰箱/SR-C48D(S1)/銀色+送吹風機" },
+    { "catalog_id": "293232", "name": "聲寶SAMPO 40型LED低藍光液晶顯示器+視訊盒/EM-40CBS200+MT-200" },
+    { "catalog_id": "293237", "name": "聲寶SAMPO 7.5公斤定頻全自動洗衣機/ES-B08F" },
+    { "catalog_id": "293238", "name": "聲寶SAMPO 10公斤定頻洗衣機/ES-B10F" },
+    { "catalog_id": "293239", "name": "聲寶SAMPO 12.5公斤定頻全自動洗衣機/ES-B13F" },
+    { "catalog_id": "293337", "name": "聲寶SAMPO 118L定頻雙門冰箱/SR-C12G" },
+    { "catalog_id": "293490", "name": "聲寶SAMPO 97L獨享系列單門小冰箱/REF-M100" },
+    { "catalog_id": "293491", "name": "聲寶SAMPO 92L獨享系列雙門小冰箱/SR-C09G" },
+    { "catalog_id": "293564", "name": "聲寶SAMPO 7公斤乾衣機/SD-7B" },
+    { "catalog_id": "293571", "name": "聲寶SAMPO 15公斤定頻直立式洗衣機/ES-H15F(W1)+送小夜燈" },
+    { "catalog_id": "293572", "name": "聲寶SAMPO 10公斤變頻觸控式直立洗衣機/ES-B10D" },
+    { "catalog_id": "293573", "name": "聲寶SAMPO 13公斤淨省變頻系列直立式洗衣機/ES-B13D" },
+    { "catalog_id": "293577", "name": "聲寶SAMPO 7公斤智慧觸控式乾衣機/SD-7C" },
+    { "catalog_id": "293579", "name": "聲寶SAMPO 55型4K液晶顯示器+視訊盒/EM-55FCT610(N)" },
+    { "catalog_id": "293797", "name": "聲寶SAMPO19KG洗劑智慧投入變頻洗衣機/不鏽鋼/ES-P19DAS(S1)+送行李箱" },
+    { "catalog_id": "293919", "name": "聲寶SAMPO 71公升定頻二級單門小冰箱/SR-C07" },
+    { "catalog_id": "294137", "name": "聲寶SAMPO 71公升定頻二級單門小冰箱/SR-C07" },
+    { "catalog_id": "294185", "name": "聲寶SAMPO 250L一級變頻雙門冰箱/SR-M25D/台+送碗筷禮盒" },
+    { "catalog_id": "294213", "name": "Balzano義式3 in 1咖啡機+配件收納盒/BZ-CCM806+BZ-B320/顏色隨機" },
+    { "catalog_id": "294298", "name": "聲寶SAMPO 170公升變頻直立式冷凍櫃/SRF-171FD" },
+    { "catalog_id": "294368", "name": "聲寶SAMPO 6.5KG定頻洗衣機/ES-B07F" },
+    { "catalog_id": "294404", "name": "聲寶SAMPO 43型FHD轟天雷液晶顯示器+視訊盒/EM-43MDT200" },
+    { "catalog_id": "294407", "name": "聲寶SAMPO 92公升一級能效獨享系列雙門小冰箱/REF-M90G" },
+    { "catalog_id": "294438", "name": "聲寶SAMPO 43型FHD LED 2K轟天雷+視訊盒/EM-43MDS200+MT-200" },
+    { "catalog_id": "294715", "name": "聲寶SAMPO 95公升定頻一級獨享系列單門小冰箱/SR-C09" },
+    { "catalog_id": "294750", "name": "聲寶SAMPO 480L一級變頻星美滿雙門變頻冰箱/SR-C48D(Y9)晶鑽金+送吹風機" },
+    { "catalog_id": "294754", "name": "聲寶SAMPO 350L玻璃兩門觸控面板上冷藏下冷凍冰箱/琉璃白/SR-C35GD+送碗筷禮盒" },
+    { "catalog_id": "294758", "name": "聲寶SAMPO 15KG變頻Soft+淨省洗衣機/ES-B15D+送小夜燈" },
+    { "catalog_id": "294767", "name": "聲寶SAMPO 12KG洗脫烘蒸變頻滾筒洗衣機/ES-ND12DH+送鑄鐵鍋" },
+    { "catalog_id": "294805", "name": "聲寶SAMPO高效淨塵兩用吸塵器/EC-F15UYP" },
+    { "catalog_id": "294872", "name": "聲寶SAMPO 47公升單門冰箱/SR-C05" },
+    { "catalog_id": "294877", "name": "聲寶SAMPO14公斤超震波變頻直立洗衣機/ES-P14DV(G5)+送小夜燈" },
+    { "catalog_id": "295256", "name": "聲寶SAMPO16吋微電腦遙控DC直流馬達風扇/SK-FA16AD" },
+    { "catalog_id": "295257", "name": "聲寶SAMPO18吋微電腦遙控DC節能風扇/SK-FA18DR" },
+    { "catalog_id": "295258", "name": "聲寶SAMPO12吋機械式定時立扇/SK-FB12JT" },
+    { "catalog_id": "295259", "name": "聲寶SAMPO14吋機械式定時立扇/SK-FD14VT" },
+    { "catalog_id": "295260", "name": "聲寶SAMPO16吋機械式定時立扇/SK-FD16VT" },
+    { "catalog_id": "295848", "name": "聲寶SAMPO 9公升多功能溫控定時電烤箱/KZ-XF09" },
+    { "catalog_id": "295875", "name": "聲寶SAMPO清淨除濕機/6公升/AD-WB512T" },
+    { "catalog_id": "295876", "name": "聲寶SAMPO簡約輕巧除濕機/6公升/AD-S512T/白/台" },
+    { "catalog_id": "296136", "name": "聲寶SAMPO PICO PURE水離子16L除濕機/AD-W132P" },
+    { "catalog_id": "296137", "name": "聲寶SAMPO 125L變頻直立式風冷無霜冷凍櫃/SRF-125FD" },
+    { "catalog_id": "296138", "name": "ARKDAN阿沺雙淨化空氣清淨機(適用15坪)/APK-MB22C/遠山藍" },
+    { "catalog_id": "296196", "name": "ARKDAN阿沺20L一級鏡面高效除濕機/DHY-GB20P" },
+    { "catalog_id": "296419", "name": "聲寶SAMPO 100L變頻臥式冷凍櫃/SRF-100D/台" },
+    { "catalog_id": "296470", "name": "聲寶SAMPO 32型新轟天雷液晶顯示器/EM-32MDT200/台灣製/台" },
+    { "catalog_id": "296624", "name": "聲寶SAMPO 19Kg變頻不鏽鋼直立洗衣機/WM-ND19/台" },
+    { "catalog_id": "296625", "name": "聲寶SAMPO 10Kg變頻洗脫烘蒸滾筒洗衣機/ES-PD10DH/台" },
+    { "catalog_id": "296626", "name": "聲寶SAMPO 10Kg變頻洗脫蒸滾筒洗衣機(無烘乾)/ES-PD10D/台" },
+    { "catalog_id": "296680", "name": "聲寶SAMPO 48L電子冷藏小冰箱/KR-UB48F/台" },
+    { "catalog_id": "296681", "name": "聲寶SAMPO 10公斤熱泵除濕式乾衣機/SD-10DH/台+送鑄鐵鍋" },
+    { "catalog_id": "296898", "name": "聲寶SAMPO4L雙溫控鴛鴦鍋/TQ-AA40W/台" }
+  ],
+  "delivery_policies": {
+    "floor_fee": {
+      "policy": "基本不收樓層費（大型家電適用）",
+      "special_cases": "若遇樓梯間過窄需抬高、過窗、或無法正常行走搬運等特殊需求，將依現場狀況另計處理費。"
+    },
+    "regional_surcharge": {
+      "notice": "凡配送至以下區域需另計額外運費，詳細費用由專人聯繫告知（約 600 元至 2500 元之間）。",
+      "areas": {
+        "台北地區": ["貢寮", "平溪", "雙溪", "坪林", "烏來", "金山", "福隆", "石碇"],
+        "桃園地區": ["富岡", "復興鄉"],
+        "新竹地區": ["尖石鄉", "五峰鄉"],
+        "苗栗地區": ["泰安鄉", "苑裡鄉", "大湖鄉", "南庄鄉"],
+        "台中地區": ["谷關", "和平", "梨山"],
+        "南投地區": ["信義", "仁愛", "霧社", "蘆山", "清境", "奧萬大", "魚池鄉日月潭周邊"],
+        "嘉義地區": [
+          "阿里山鄉", 
+          "大埔鄉", 
+          "番路鄉山區(觸口(不含)以上山區)", 
+          "梅山鄉山區(太平(含)以上山區)", 
+          "竹崎鄉山區(觀音瀑布(不含)以上山區)"
+        ],
+        "雲林地區": ["古坑鄉山區(華珊、桂林(含)以上山區)"],
+        "台南地區": ["玉井鄉", "楠西鄉", "北門鄉", "南化鄉"],
+        "高雄地區": ["甲仙鄉", "六龜鄉", "三民鄉", "茂林鄉", "桃源鄉", "杉林鄉"],
+        "屏東地區": [
+          "枋山鄉", "春日鄉", "車城鄉", "恆春鎮", "滿州鄉", "三地門鄉", 
+          "霧台鄉", "瑪家鄉", "泰武鄉", "來義鄉", "獅子鄉", "牡丹鄉"
+        ],
+        "宜蘭地區": ["大同", "四季", "南山", "南澳", "澳花", "東澳"],
+        "花東地區": [
+          "太麻里鄉", "金鋒鄉", "大武鄉", "達仁鄉", "洛韶", "西寶", 
+          "延平", "紅葉", "知本", "泰源"
+        ]
+      }
+    }
+  }
+}
